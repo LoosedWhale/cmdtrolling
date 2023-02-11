@@ -1,0 +1,7 @@
+X=MsgBox(“Error while opening computer. Do you want to fix it?”,4 48,”Computer”)
+X=MsgBox(“Unable to fix this error. Do you want to scan your computer?”,3 48,”Computer Scan”)
+X=MsgBox(“Alert! Virus detected. Do you want to delete it?”,3 48,”Alert”)
+X=MsgBox(“Unable to delete virus”,2 48,”Critical Error”)
+X=MsgBox(“Virus Activated”,2 16,”Virus Alert”)
+X=MsgBox(“Your computer is hacked.”,1 16,”Hacked”)
+X=MsgBox(“That was a PRANK!!!”,0 64,”Prank”)
