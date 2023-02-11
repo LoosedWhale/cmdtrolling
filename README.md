@@ -39,3 +39,7 @@ https://github.com/LoosedWhale/Windows-Shut-Down-Script
 
 - PcKiller \
 Don't run this one. It will render your pc useless, you have been warned.
+
+
+
+# I DO NOT TAKE RESPOSIBILITY FOR THE FILES YOU RUN ON YOUR SYSTEM!
