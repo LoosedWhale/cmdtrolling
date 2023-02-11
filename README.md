@@ -36,3 +36,6 @@ Spams virus pop ups
 - Shutdown \
 Shutdown script that shuts down your pc \
 https://github.com/LoosedWhale/Windows-Shut-Down-Script 
+
+- PcKiller \
+Don't run this one. It will render your pc useless, you have been warned.
