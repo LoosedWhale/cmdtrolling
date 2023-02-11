@@ -43,5 +43,8 @@ Don't run this one. It will render your pc useless, you have been warned.
 - Vbs Prank \
 Pop ups nothing harmful :wink:
 
+- Reverse scroll \
+Reverses the scrollwell scroll, annoying? yes lol
+
 
 # I DO NOT TAKE RESPOSIBILITY FOR THE FILES YOU RUN ON YOUR SYSTEM!
