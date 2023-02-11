@@ -5,8 +5,9 @@ Windows bat & vbs files for pranking your friends.
 
 
 
-Made with batch and vbs \
+Made with batch and vbs: \
 <a href="https://microsoft.com" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/harwen/pleasant/256/MS-DOS-Batch-File-icon.png" alt="batch" width="40" height="40"/> </a>
+<a href="https://microsoft.com" target="_blank" rel="noreferrer"> <img src="http://herongyang.com/VBScript/_icon.png " alt="Vbs" width="40" height="40"/> </a>
 
 - SwappingMouseKeys \
 Swaps the left and right buttons on the mouse so, when the victim left-clicks, it will be registered as a right click. To reset this, you can go into mouse settings and change it.
