@@ -13,16 +13,16 @@ Made with batch and vbs: \
 Swaps the left and right buttons on the mouse so, when the victim left-clicks, it will be registered as a right click. To reset this, you can go into mouse settings and change it.
 
 - Reset the computer clock \
-Reset your computer clock to the start of the century. Not much, but atleast the victim will have to go through all the process of setting the time and date again.
+Reset the computer clock to the start of the century. Not much, but atleast the victim will have to go through all the process of setting the time and date again.
 
 - Hide documents \
-Pretty much self-explanatory.
+Pretty much self-explanatory. Hides documents. 
 
 - No close \
 Everything the victim closes will magically reappear again. That has to be one of the most funniest cmd pranks ever.
 
 - Crash \
-All it does is crash the computer once.
+All it does is crash the computer once. Or is that all it does? :wink:
 
 - No more keybord and mouse \
 Disables the victim’s keyboard and mouse, so unless they have a touch screen monitor, they’re in some serious trouble.
@@ -31,7 +31,7 @@ Disables the victim’s keyboard and mouse, so unless they have a touch screen m
 This is a safe prank as it does not do anything but scare your friend.
 
 - You have a virus \
-Spams virus pop ups
+Spams virus pop ups. You can eventially close them all, they only reopen a select few times (allot of times)
 
 - Shutdown \
 Shutdown script that shuts down your pc \
